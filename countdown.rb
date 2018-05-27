@@ -6,7 +6,7 @@ until time_left == 0
   puts "#{time_left} SECOND(S)!"
   time_left -= 1
 end
-  HAPPY NEW YEAR!
+  "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep(time)
